@@ -1,0 +1,31 @@
+
+npm create vite@latest
+npm install
+npm run dev
+
+Instalando Tailwind
+-------------------
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm install @heroicons/react
+
+
+https://splidejs.com
+---------------------
+npm install @splidejs/react-splide
+
+https://lodash.com
+------------------
+npm install --save lodash
+
+
+Redux Toolkit - https://redux-toolkit.js.org
+-------------
+npm install @reduxjs/toolkit
+npm install react-redux
+
+
+https://react-hot-toast.com (Notificaciones)
+---------------------------
+npm install react-hot-toast
